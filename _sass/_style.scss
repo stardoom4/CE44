@@ -83,7 +83,7 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  color: #fff;
   &:hover {
     color: black !important;
     background: #fffaf1;
@@ -103,8 +103,8 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
-  color: black !important;
+  background: #121212 !important;
+  color: #fff !important;
 }
 
 nav {
@@ -131,7 +131,7 @@ nav {
 }
 
 code {
-  background: #f5f5f5;
+  background: #121212;
   padding: 0.1em 0.2em;
   border-radius: 4px;
 }
