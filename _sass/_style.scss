@@ -6,6 +6,10 @@ $color-box-background: #121212;
 $border-radius: 4px;
 $font-family: serif;
 
+:root {
+  background: #000000;
+}
+
 body {
   box-sizing: content-box;
   font-family: $font-family;
