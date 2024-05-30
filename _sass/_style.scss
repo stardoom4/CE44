@@ -83,7 +83,7 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
-  color: #000000;
+  color: #fff;
   &:hover {
     color: #000000 !important;
     background: #fff;
@@ -101,7 +101,9 @@ a {
     content: "";
   }
 }
-
+ &.internal-link
+    background: #000000;
+}
 *:focus {
   background: #121212 !important;
   color: #fff !important;
@@ -139,7 +141,7 @@ code {
 .invalid-link {
   color: #444444;
   cursor: help;
-  background: #fafafa;
+  background: #121212;
   padding: 0 0.1em;
 }
 
