@@ -5,15 +5,21 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
-
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[[Notes]]</span> to get started.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+<figure><img src="https://raw.githubusercontent.com/stardoom4/lyceum/master/static/site/home.webp" alt="Monotone"></figure>
+<p><strong>Shinji Ikari</strong>: Ayanami! Are you all right? Ayanami! …Don’t ever say that! Just don’t say that you have nothing else! Just don’t say that! And don’t say goodbye when you leave for a mission, it’s just too sad. [sobs quietly]<br>
+    <strong>Rei Ayanami </strong>: Why are you crying? I’m very sorry I don’t know what I should do or feel at a time like this.<br>
+    <strong>Shinji Ikari</strong>: Why don’t you just try smiling?
+    [Rei smiles]</p>
+<details>
+    <summary>Online Presence</summary>
+    <a href="https://garud.netlify.app">Website</a><br>
+    <a href="https://github.com/stardoom4">Github</a><br>
+    <a href="https://letterboxd.com/Celestialentity/">LetterBoxd</a>
+</details>
 
 <strong>Recently updated notes</strong>
 
