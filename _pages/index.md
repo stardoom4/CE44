@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #121212; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Notes]]</span> to get started.
 </p>
 
