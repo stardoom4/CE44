@@ -146,16 +146,4 @@ code {
   color: #ccc;
   cursor: help;
 }
-figure:first-child img {
-  margin-left: -30px;
-  max-width: 100vw;
-  width: 800px;
-}
 
-figure>* {
-  margin-bottom: 25px;
-}
-
-figure figcaption {
-  max-width: 400px;
-}
