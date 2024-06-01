@@ -1,10 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 800
+
+.eb-garamond-<uniquifier> {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 $color-primary: #fff;
 $color-text: #fff;
 $color-subtext: #fff;
 $color-border: #fff;
 $color-box-background: #121212;
 $border-radius: 4px;
-$font-family: serif;
+$font-family: "EB Garamond", serif;
 
 body {
   box-sizing: content-box;
