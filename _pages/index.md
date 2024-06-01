@@ -5,8 +5,8 @@ id: home
 permalink: /
 ---
 
-<p style="padding: 2em 1em; background: #121212; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Notes]]</span> to get started.
+<p style="padding: 1em 1em; background: #121212; border-radius: 4px;">
+  Take a look at <span style="font-weight: bold">[[Notes]]</span> or <span style="font-weight: bold">[[alphabetical-list]]</span> to get started.
 </p>
 
 <p><strong>Shinji Ikari</strong>: Ayanami! Are you all right? Ayanami! …Don’t ever say that! Just don’t say that you have nothing else! Just don’t say that! And don’t say goodbye when you leave for a mission, it’s just too sad. [sobs quietly]<br>
